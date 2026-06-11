@@ -175,20 +175,6 @@ VeritasSphere/
 └── package.json
 ```
 
----
-
-## 📸 Screenshots
-
-> _Add screenshots of your app here to make the README visually compelling._
->
-> Suggested shots:
-> - Home / Post Feed
-> - Post Editor (TinyMCE in action)
-> - Single Post View
-> - Login / Signup page
-
----
-
 ## 🗺️ Roadmap
 
 - [ ] Comment system on blog posts
