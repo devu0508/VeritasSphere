@@ -6,7 +6,7 @@
 
 **A full-stack blogging platform built with React 19, Redux Toolkit, and Appwrite BaaS — featuring rich-text authoring, secure authentication, and a clean, responsive UI.**
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-veritas--sphere.vercel.app-6366f1?style=for-the-badge)](https://veritas-sphere.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-veritas--sphere.vercel.app-6366f1?style=for-the-badge)](https://megablog-nu.vercel.app/login)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-devu0508%2FVeritasSphere-181717?style=for-the-badge&logo=github)](https://github.com/devu0508/VeritasSphere)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![Appwrite](https://img.shields.io/badge/Appwrite-BaaS-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io)
@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo
 
-🌐 **[https://veritas-sphere.vercel.app](https://veritas-sphere.vercel.app)**
+🌐 **[https://megablog-nu.vercel.app/login](https://megablog-nu.vercel.app/login)**
 
 ---
 
